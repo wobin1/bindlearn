@@ -1,19 +1,16 @@
 ---
-title: "Iphone 13"
+title: "javascript function"
 date: 2021-09-16
 categories:
 - Tech Reviews
 - 
 tags:
-- iphone 13
-- phones
-- iphone
+- programming basics
+- functions
 - disqus
 - google analytics
 keywords:
-- iphone 13
-- phones
-- iphone
+- Programming
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
