@@ -1,18 +1,26 @@
 ---
-title: "Javascript functions"
-date: 2018-05-02T14:33:42-04:00
-description: " Java script is a very powerful programming language which we are always using in everything we do"
-categories: ["Web"]
-dropCap: true
-displayInMenu: false
-displayInList: true
-draft: false
-resources:
-- name: featuredImage
-  src: "hero.jpg"
-  params:
-    description: "A MacBook showing a website using the aether theme"
+title: "Iphone 13"
+date: 2021-09-16
+categories:
+- Tech Reviews
+- 
+tags:
+- iphone 13
+- phones
+- iphone
+- disqus
+- google analytics
+keywords:
+- iphone 13
+- phones
+- iphone
+autoThumbnailImage: false
+thumbnailImagePosition: "top"
+thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
+coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
+metaAlignment: center
 ---
+
 
 Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
 
