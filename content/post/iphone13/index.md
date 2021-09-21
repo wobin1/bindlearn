@@ -15,7 +15,7 @@ keywords:
 - phones
 - iphone
 autoThumbnailImage: false
-thumbnailImagePosition: "top"
+thumbnailImagePosition: "left"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
