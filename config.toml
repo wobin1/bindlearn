@@ -4,7 +4,7 @@ defaultContentLanguage = "en-us"
 title = "A Community of Learners"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "bindlearn"
-# googleAnalytics = "UA-123-45"
+# googleAnalytics = "G-F0M8E3NC65"
 paginate = 7
 canonifyurls = true
 
