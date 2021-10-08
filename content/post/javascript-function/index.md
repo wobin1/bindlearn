@@ -12,7 +12,7 @@ tags:
 keywords:
 - Programming
 autoThumbnailImage: false
-thumbnailImagePosition: "left"
+thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center

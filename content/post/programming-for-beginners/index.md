@@ -19,7 +19,7 @@ coverImage: https://images.unsplash.com/photo-1618335829737-2228915674e0?ixid=Mn
 metaAlignment: center
 ---
 
-
+### Introduction
 To understand computer programming there is a need to understand what programming means in a general sense. Programming can be seen as the design of plans and schedules to achieve a goal. If I design a plan I took to reach a goal, I can say I have a program to achieve that kind of goal. Let's look at computer programming.
 
 ### Computer Programming
