@@ -27,17 +27,17 @@ In programming, a data type is an attribute associated with data that tells the 
 
 ### Types of data types in python.
 #### Python Numbers
-This data type is Tells the program to treat data as numbers;
+This data type is tells a program to treat data as numbers. The numbers data type can be;
 
-- Integers(int): int tells the program to treat data as whole numbers.
+- Integers(int): which tells a program to treat data as whole numbers.
 ```
 123
 ```
-- Floating Point (float): float tells the program to treat data as decimals.
+- Floating Point (float): which tells the program to treat data as decimals.
 ```
 2.3
 ```
-- Complex number: this number tells the program to treat data complex numbers i.e. numbers with real and imaginary section parts eg.
+- Complex number: this tells a program to treat data as complex numbers i.e. numbers with real and imaginary section parts eg.
 ```
 x + yj
 
