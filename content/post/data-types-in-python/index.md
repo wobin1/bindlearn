@@ -66,7 +66,7 @@ The dictionary data type is also like the list data type but in dictionaries, ea
 { "name": "John", "age": 23}
 ```
 #### Python Set
-The set data types tell a program that data is a collection of unique items that are in sets. Just like dictionaries the set data type is defined with curly braces. A set data type is shown below.
+The set data types tell a program that data is a collection of unique items that are in sets. Just like dictionaries the set data type is defined with curly braces. A set data type is as shown below.
 ```
 {2,2,2,3,3,4,5,5,5,5}
 ```
