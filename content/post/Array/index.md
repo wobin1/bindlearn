@@ -16,8 +16,8 @@ keywords:
 - programming for beginners
 - programming Basics
 
-thumbnailImage: https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80
-coverImage: https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80
+thumbnailImage: https://images.unsplash.com/photo-1537884944318-390069bb8665?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80
+coverImage: https://images.unsplash.com/photo-1537884944318-390069bb8665?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80
 metaAlignment: center
 ---
 To understand arrays it is necessary to have an understanding of variables, you can refer to this [article](https://www.bindlearn.com/post/variable-in-python/) if you don't have an understanding of variables. It is easier to store a name in a variable but imagine you need to store up to 5000 names in a program, will you store each name in a variable? this is where the concept of arrays comes into play.
