@@ -8,7 +8,7 @@ Conditional statements execute computation only when a specific boolean constrai
 
 Every programming language has its way of implementing these statements, this article will focus on python implementation.
 
-### IF Statements in python 
+### IF Statements In Python 
 
 The if statement determines if a block of code or a statement should be executed or not, it checks to see if a certain condition evaluates to true before it executes otherwise it doesn't execute. The if statement only executes a block of code if the boolean expression resolves to true, the code snippet below shows how to write an if statement in python.
 ```python
@@ -36,7 +36,7 @@ you are a member
 ```
 The code above will give an output `you are a member because the name `john` is in the [list](https://www.bindlearn.com/post/array/)
 
-### if-else Statement
+### if-else Statement In Python
 The if-else statement is an if statement with an else condition. The code block in the else statement executes only if the condition in the if statement evaluates to false. The if statement is structured such that If the condition is TRUE, the code present in the “ if “ block will be executed otherwise the code of the “else“ block will be executed. Below is how an if-else statement is structured.
 
 ```python
@@ -68,7 +68,7 @@ you are not a member
 ```
 The code snippet will print out `you are not a member because the name `James is not found in the [list](https://www.bindlearn.com/post/array/).
 
-### elif Statement
+### elif Statement In Python 
 The `elif` statement in python is the same as `else if` statement in other programming languages. The `elif` statement and an `if-else` statement are similar their only difference is that the `else` doesn't check a condition before it executes a block of code while the `elif` check for a condition before it executes a code. The `elif` is used when developers want to check for multiple conditions, the `elif` only checks for a condition only if the previous condition resolves to `False`. The snippet below shows how an `elif` statement is structured.
 
 ```python
@@ -107,7 +107,7 @@ To accomplish this an `if statement` is written to check the length of the data 
 
 The example code will print *username field can't be empty, please input username* if an empty field is submitted, it will print *"User Name is correct"* if the input username and the stored username is the same, and will print *Incorrect username* if the input username and the stored username is not the same.
 
-### Nested if statement
+### Nested if Statement in Python
 An if statement is said to be nested if it is in another if statement. In simple terms a nested if statement is an if statement inside another if statement. Below shows how a nested if statement is structured.
 
 ```python
