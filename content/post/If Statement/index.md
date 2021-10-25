@@ -1,3 +1,24 @@
+---
+title: "If Statement"
+date: 2021-09-21T11:24:58+01:00
+categories:
+- Programming Basics
+- 
+tags:
+- programming basics
+keywords: 
+- If Statements
+- If statement in python
+- conditional statement
+- conditional statement for beginner
+- programming for beginners
+- programming Basics
+
+thumbnailImage: https://media.istockphoto.com/photos/data-scientists-male-programmer-using-laptop-analyzing-and-developing-picture-id1295900106?k=20&m=1295900106&s=612x612&w=0&h=hDkQP1a9dUo4Esv8iMyVlEnP4nfN2mwM5LdtPW9M8zo=
+coverImage: https://media.istockphoto.com/photos/data-scientists-male-programmer-using-laptop-analyzing-and-developing-picture-id1295900106?k=20&m=1295900106&s=612x612&w=0&h=hDkQP1a9dUo4Esv8iMyVlEnP4nfN2mwM5LdtPW9M8zo=
+metaAlignment: center
+---
+
 ### Introduction
 When building the logging system of a software or website, how do you authenticate or verify that the user filling the logging form is an authorized or registered user to the software or website? This is where conditional statements come into play.
 Conditional statements execute computation only when a specific boolean constraint evaluates to either true or false. Programming languages use `if statements` to handle conditional statements. Below is a list of conditional statements used in programming.
