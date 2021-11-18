@@ -19,7 +19,6 @@ coverImage: https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixid=Mn
 metaAlignment: center
 ---
 
-### Introduction
 Computers are dumb they don't understand anything on their own, they rely heavily on programs to make them function. That's why a computer without an operating system is useless. The operating system is the program that manages the hardware and software of a computer. Sofware is what manages the data users give to the computer to process which is the primary function of a computer. During the process of programming this software, the programmer will have to identify the type of data the software will be receiving, processing, or storing.
 
 ### What is a Data type in programming?
