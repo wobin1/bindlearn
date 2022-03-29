@@ -1,35 +1,16 @@
----
-title: "functions in python"
-date: 2022-03-29T6:24:58+01:00
-categories:
-- Programming Basics
-- 
-tags:
-- programming basics, functions
-keywords: 
-- functions in python
-- functions
-- programming for beginners
-- programming Basics
-
-thumbnailImage: https://images.unsplash.com/photo-1592609931041-40265b692757?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVuY3Rpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
-coverImage: https://images.unsplash.com/photo-1592609931041-40265b692757?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVuY3Rpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
-metaAlignment: center
----
-
-
+### What is a function
 A function is a block of code that performs a single functionality, written in a way that it can be reusable in a codebase. 
 
 A function will help you reduce the bulkiness of a codebase, thereby making debugging easier and faster.
 
-Steps to writing a function
-To write a function there are four basic steps you will note;
-Declaring the function with a name
-Passing parameters for the function
-Writing your functionality
-Returning an output
+### Steps to writing a function
+- To write a function there are four basic steps you will take;
+- Declaring the function with a name
+- Passing parameters for the function
+- Writing your functionality
+- Returning an output
 
-Defining a function
+### Defining a function
 to define a function you start by calling the keyword `def`, followed by the name of the function, followed by a parenthesis then end the line with a colon as shown below.
 ```python 
 def name_of_function():
