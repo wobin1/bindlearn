@@ -1,19 +1,19 @@
 ---
 title: "Classes in python"
-date: 2022-03-30T6:2418:58+01:00
+date: 2022-03-30T6:18:58+01:00
 categories:
 - Programming Basics
 - 
 tags:
-- programming basics, classes
+- programming basics, functions
 keywords: 
-- classes in python
-- class
+- functions in python
+- functions
 - programming for beginners
 - programming Basics
 
-thumbnailImage: https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHl0aG9uJTIwY2xhc3Nlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
-coverImage: https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHl0aG9uJTIwY2xhc3Nlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+thumbnailImage: https://images.unsplash.com/photo-1592609931041-40265b692757?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVuY3Rpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+coverImage: https://images.unsplash.com/photo-1592609931041-40265b692757?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVuY3Rpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
 metaAlignment: center
 ---
 
