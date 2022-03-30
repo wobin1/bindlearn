@@ -17,8 +17,6 @@ coverImage: https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=r
 metaAlignment: center
 ---
 
-### Classes in python
-
 A class is a blueprint used in building or creating objects, it is a guide used to building and creating objects. A class is made up of attributes and methods. e.g
 
 If you want to build a computer there are properties every computer must have e.g ram(memory), storage disk, operating system, processor, etc. these properties will differ between computers.
