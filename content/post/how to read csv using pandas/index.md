@@ -1,5 +1,5 @@
 ---
-title: "How To Read CSV Using Pandas"
+title: "How To Read CSV Files Using Pandas"
 date: 2022-03-30T6:18:58+01:00
 categories:
 - Machine Learning
