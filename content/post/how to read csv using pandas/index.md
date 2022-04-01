@@ -1,5 +1,5 @@
 ---
-title: "Classes in python"
+title: "How To Read CSV Using Pandas"
 date: 2022-03-30T6:18:58+01:00
 categories:
 - Machine Learning
@@ -19,7 +19,7 @@ metaAlignment: center
 
 
 ### CSV
-CSV is an acronym for Commer Separated values, it is sometimes called Character Separated Values. A CSV file is a plain text file containing a list of information separated by commas or other characters, which can be used to share or transfer information between applications.
+CSV is an acronym for Commer Separated values, it is sometimes refered to as Character Separated Values. A CSV file is a plain text file containing a list of information separated by commas or other characters, which can be used to share or transfer information between applications.
 
 ### Pandas
 Pandas is a python package or library that is used for data analysis, it is the most flexible and fast tool to use when working with data in python.
